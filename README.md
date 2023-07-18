@@ -4,7 +4,7 @@
 **iamtushar007/iamtushar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Tushar+Gahtori;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&pause=1000&color=F73518&center=true&vCenter=true&width=500&lines=I'm+Tushar+Gahtori!)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
