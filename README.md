@@ -1,5 +1,5 @@
 
-https://holopin.me/iamtushar007)](https://holopin.io/@iamtushar007)
+[![An image of @iamtushar007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamtushar007)](https://holopin.io/@iamtushar007)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&pause=1000&color=F73518&center=true&vCenter=true&width=500&lines=I'm+Tushar+Gahtori!)](https://git.io/typing-svg)
 
