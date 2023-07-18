@@ -3,6 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&pause=1000&color=F73518&center=true&vCenter=true&width=1000&height=100&lines=I'm+Tushar+Gahtori!)](https://git.io/typing-svg)
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/iamtusharr.007/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.instagram.com/iamtusharr.007/) 
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
